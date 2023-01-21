@@ -1,0 +1,1 @@
+Habits é um projeto para estudo, tem uma funcionalidade simples. Ao acessar a página você deve adicionar o dia atual através do botão no canto superior direito, após criar o dia selecione os itens, cada elemento que selecionar ficara salvo no cache do seu navegador, ao acessar a página com o seu navegador novamente os mesmos itens estarão salvo.
